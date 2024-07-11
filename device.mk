@@ -28,7 +28,7 @@ TARGET_SCREEN_HEIGHT := 2340
 TARGET_SCREEN_WIDTH := 1080
 
 # Inherit BCR
-$(call inherit-product, vendor/bcr/bcr.mk)
+$(call inherit-product, vendor/extras/bcr/bcr.mk)
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \

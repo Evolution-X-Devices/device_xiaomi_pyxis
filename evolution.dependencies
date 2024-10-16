@@ -6,5 +6,5 @@
   {
     "repository": "vendor_xiaomi_pyxis",
     "target_path": "vendor/xiaomi/pyxis"
-  },
+  }
 ]

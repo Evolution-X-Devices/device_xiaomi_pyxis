@@ -4,6 +4,10 @@
     "target_path": "device/xiaomi/sdm710-common"
   },
   {
+    "repository": "hardware_xiaomi",
+    "target_path": "hardware/xiaomi"
+  },
+  {
     "repository": "vendor_xiaomi_pyxis",
     "target_path": "vendor/xiaomi/pyxis"
   }

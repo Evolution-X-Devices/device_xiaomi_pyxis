@@ -11,4 +11,12 @@
     "repository": "vendor_xiaomi_pyxis",
     "target_path": "vendor/xiaomi/pyxis"
   }
+  {
+    "repository": "kernel_xiaomi_sdm710",
+    "target_path": "kernel/xiaomi/sdm710"
+  }
+  {
+    "repository": "vendor_xiaomi_sdm710-common",
+    "target_path": "vendor/xiaomi/sdm710-common"
+  }
 ]
